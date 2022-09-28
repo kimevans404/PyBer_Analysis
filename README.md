@@ -18,5 +18,7 @@ Next, let's look at a chart showing each city type's collected fares in weekly i
 This chart shows that while the total fares goes up and down over the first 4 months of the year, each city type stays within a small range. The only week that all three city types saw a similar spike in rides was the last week of February 2019. The main things that could have contributed to the increase of rides were The Oscars, the festivals of Carnaval, or Spring Break.
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-(There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. - 4 pt)
+Based on what we see in this sample, three recommendations to improve results are:
+1. Offer rural requests to drivers that usually pick up in urban and suburban areas.
+2. Review fares in urban cities and adjust to be more uniform so that average fare per ride is closer to average fair per driver.
+3. Reduce rural pricing to encourage more PyBer usage and stay competitive in the market.
